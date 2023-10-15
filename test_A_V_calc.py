@@ -12,6 +12,7 @@
 
 #READY FOR MARKING
 
+from A_V_calc import option1, option2, option3
 
 def test_option1():
     assert option1(5, 8) == 40
